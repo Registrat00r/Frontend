@@ -1,0 +1,26 @@
+.creator {
+    width: 1570px;
+    height: 1075px;
+    top: 3170px;
+    left: 82px;
+
+}
+
+.creator__title {
+    width: 400px;
+    height: 156px;
+    top: 3584px;
+    left: 82px;
+
+font-size: 48px;
+line-height: 51.84px;
+letter-spacing: 0%;
+}
+
+.creator__span{
+font-size: 48px;
+line-height: 51.84px;
+letter-spacing: 0%;
+
+color: blue;
+}

@@ -1,0 +1,47 @@
+.header {
+  text-align: center;
+}
+
+.header__nav {
+  width: auto;
+  height: auto;
+  margin: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 515px;
+}
+
+.header__list {
+  list-style: none;
+  display: flex;
+  gap: 11.72px;
+
+}
+
+.header__logo {
+  float: left;
+
+  /*margin-left: 81px; */
+  margin-right: 79px;
+}
+
+
+.header__sign {
+  border: none;
+  border-radius: 105px;
+  width: auto;
+  height: 32px;
+  background: #FFFFFF42, 26%;
+  padding: 10px;
+  z-index: auto;
+}
+
+.header__login {
+  border: none;
+  background: transparent;
+  width: auto;
+  height: 32px;
+  padding-right: 9px;
+  z-index: auto;
+}
