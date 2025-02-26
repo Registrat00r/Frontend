@@ -1,0 +1,63 @@
+.promo {
+    font-family: 'Roboto', sans-serif;
+    width: 1440px;
+    height: 714px;
+}
+
+.promo__title {
+    width: 481.16px;
+    height: 122.64px;
+    top: 195px;
+    left: 81px;
+    font-size: 60px;
+}
+
+.promo__content {
+    text-align: left;
+    position: relative;
+    z-index: 2;
+}
+
+
+.promo__description {
+    width: auto;
+    height: auto;
+    top: 341px;
+    left: 81px;
+    
+    font-size: 18px;
+    line-height: 30.78px;
+    
+    letter-spacing: 0%;
+    gap: 34px;
+}
+
+.promo__button {
+    top: 437px;
+    left: 81px;
+    border-radius: 105px;
+
+    padding-top: 11px;
+    padding-right: 35px;
+    padding-bottom: 11px;
+    padding-left: 35px;
+    gap: 10px;
+
+    background-color: #0033FF;
+    color: white;
+
+    cursor: pointer;
+}
+
+
+.promo__image {
+    width: 787px;
+    height: 701px;
+    right: 0;
+    top: 0;
+    
+    position: absolute;
+
+    z-index: 1;
+}
+

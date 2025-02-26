@@ -1,0 +1,81 @@
+.sounds {
+    width: 1538.5px;
+    height: 832px;
+    top: 1024px;
+    left: -78.5px;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.sounds__subtitle {
+    height: auto;
+    width: auto;
+    margin: 0px;
+
+    font-size: 16px;
+    line-height: 18.75px;
+
+    color: rgba(96, 96, 96, 0.5);
+}
+
+.sounds__title {
+    width: auto;
+    height: auto;
+    top: 1047px;
+    left: 505px;
+    margin: 3px;
+
+    font-size: 48px;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+
+}
+
+.sounds__span {
+    font-size: 48px;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+    color: blue;
+}
+
+.sounds__description {
+    width: auto;
+    height: auto;
+    top: 1117px;
+    left: 441px;
+
+    margin: 18px 0px 34px 0px;
+
+    font-size: 18px;
+    line-height: 30.78px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.sounds__button {
+    width: auto;
+    height: auto;
+    top: 1244px;
+    left: 638px;
+    
+    border-radius: 105px;
+    border: none;
+
+    padding-top: 11px;
+    padding-right: 35px;
+    padding-bottom: 11px;
+    padding-left: 35px;
+    gap: 10px;
+
+    background: rgba(0, 51, 255, 1);
+    color: white;
+    
+}
+
+.sounds__image {
+    width: auto;
+    height: auto;
+    top: 1331px;
+    left: 340px;
+
+}

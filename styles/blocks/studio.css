@@ -1,0 +1,73 @@
+.studio {
+    width: 1188px;
+    height: 448px;
+    top: 2653px;
+    left: 139px;
+
+    background: aqua;
+}
+
+.studio__subtitle {
+    width: 73px;
+    height: 20px;
+    top: 2774px;
+    left: 139px;
+
+    float: left;
+
+    color: rgba(96, 96, 96, 0.5);
+}
+
+.studio__title {
+    width: 464px;
+    height: 52px;
+    top: 2797px;
+    left: 139px;
+
+    font-size: 48px;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+
+    float: left;
+}
+
+.studio__span {
+
+    font-size: 48px;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+
+    color: blue;
+}
+
+.studio__description {
+    width: 400px;
+    height: 62px;
+    top: 2867px;
+    left: 139px;
+
+    margin: 18px 117px 34px 139px;
+
+    font-size: 18px;
+    line-height: 30.78px;
+    letter-spacing: 0%;
+
+    color: rgba(149, 138, 138, 1);
+}
+
+.studio__button{
+    width: 156;
+height: 37;
+top: 2963px;
+left: 139px;
+border-radius: 105px;
+
+padding-top: 11px;
+padding-right: 35px;
+padding-bottom: 11px;
+padding-left: 35px;
+gap: 10px;
+
+background: rgba(0, 51, 255, 1);
+color: white;
+}

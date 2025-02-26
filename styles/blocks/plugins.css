@@ -1,0 +1,119 @@
+.plugins {
+    width: 1440px;
+    height: 1002px;
+    top: 1621px;
+    border: 3px solid rgba(126, 112, 255, 0.28);
+}
+
+.plugins__subtitle {
+    width: auto;
+    height: auto;
+    top: 2104px;
+    left: 872px;
+
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: 0%;
+
+    color: rgba(96, 96, 96, 0.5);
+
+    float: right;
+    margin: 0px 168px;
+}
+
+.plugins__title {
+    width: auto;
+    height: auto;
+    top: 2124px;
+    left: 872px;
+
+    font-size: 48px;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+
+    float: right;
+    margin: 0px 168px;
+}
+
+.plugins__span {
+    font-size: 48px;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+    color: blue;
+
+}
+
+.plugins__description {
+    width: auto;
+    height: auto;
+    top: 2246px;
+    left: 872px;
+
+
+    font-size: 18px;
+    line-height: 30.78px;
+    letter-spacing: 0%;
+
+    float: right;
+    margin: 0px 168px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    top: 2169px;
+    left: 290px;
+    background-color: rgba(244, 246, 249, 1);
+}
+
+.circle2 {
+    width: 340px;
+    height: 340px;
+    top: 2099px;
+    left: 220px;
+    background: radial-gradient(50% 50% at 50% 50%, #816FFF 0%, rgba(129, 64, 155, 0) 100%);
+
+}
+
+.circle3 {
+    width: 486px;
+    height: 486px;
+    top: 2026px;
+    left: 147px;
+    border-width: 3px;
+
+    border: 3px solid rgba(126, 112, 255, 0.28);
+}
+
+.plugins__button {
+    width: 143;
+    height: 37;
+    top: 2342px;
+    left: 872px;
+    border-radius: 105px;
+
+    padding-top: 11px;
+    padding-right: 35px;
+    padding-bottom: 11px;
+    padding-left: 35px;
+    gap: 10px;
+
+    background: rgba(0, 51, 255, 1);
+    color: white;
+}
+
+.plugins__logo {
+    width: 64px;
+    height: 64px;
+    top: 1994px;
+    left: 358px;
+
+    box-shadow: 0px 10px 20px 0px rgba(41, 41, 42, 0.07);
+}
+
+.plugins__logo {
+    width: 200px;
+    height: 200px;
+    top: 2169px;
+    left: 290px;
+}

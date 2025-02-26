@@ -1,0 +1,20 @@
+.commpany{
+    width: auto;
+    height: auto;
+    top: 796px;
+    left: 194px;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.commpany__subtitle{
+    width: 102;
+    height: 17;
+    top: 796px;
+    left: 669px;
+}
+
+.commpany__img-imagin{
+    padding: 0px 39.5px;
+    margin:  30px 0px 127px 0px;
+}

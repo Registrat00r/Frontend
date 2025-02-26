@@ -1,0 +1,58 @@
+.header {
+  text-align: center;
+  position: relative;
+  z-index: 3;
+  font-family: 'Roboto', sans-serif; 
+}
+
+.header__nav {
+  width: auto;
+  height: auto;
+  margin: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 515px;
+}
+
+.header__list {
+  list-style: none;
+  display: flex;
+  gap: 11.72px;
+
+}
+
+.header__logo {
+  float: left;
+  margin-right: 79px;
+  margin: 8px 0px;
+}
+
+.header__sign {
+  width: auto;
+  height: 32px;
+  padding: 10px;
+  gap: 10px;;
+  
+  border: none;
+  border-radius: 105px;
+  
+  background: rgba(255, 255, 255, 0.26);
+  color: white;
+
+  cursor: pointer;
+}
+
+.header__login {
+  height: 32px;
+  width: auto;
+  gap: 10px;
+  
+  border: none;
+  background: transparent;
+  padding-right: 9px;
+  
+  color: white;
+
+  cursor: pointer;
+}
