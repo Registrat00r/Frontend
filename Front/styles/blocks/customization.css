@@ -1,0 +1,53 @@
+.customization{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    
+    height: 515px;
+
+    display: flex;
+    align-items: center;
+    
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    border-radius: 0 0 20% 20%;
+}
+
+.customization__item__img{
+    float: left;
+}
+
+.customization__title{
+    color: white;
+    font-size: 38px;
+    margin-bottom: 113px;
+}
+
+.customization__item__title{
+    color: white;
+    float: left;
+    margin-top: 60px;
+    margin-left: -35px;
+}
+
+.customization__item__description{
+    color: #958A8A;
+    float: left;
+    font-size: 16px;
+    margin-top: 19px;
+}
+
+.customization__block{
+    justify-content: center;
+    flex-grow: 1;
+    column-gap: 90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.customization__item{
+    max-width: calc(1086px / 4);
+    width: 100%;
+    padding: 0%;
+}
+
