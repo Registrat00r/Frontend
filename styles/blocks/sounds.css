@@ -1,0 +1,50 @@
+.sounds{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column;
+}
+
+.sounds__subtitle{
+    margin-top: 127px;
+    margin-bottom: 0px;
+
+    font-size: 16px;
+    color: #60606080;
+}
+
+.sounds__title{
+    margin-top: 3px;
+    font-size: 48px;
+}
+
+.sounds__title-span{
+    color: blue;
+}
+
+.sounds__description{
+    font-size: 18px;
+    color: #958A8A;
+    margin-top: 18px;
+}
+
+.sounds__button{
+    height: 37px;
+    margin-top: 34px;
+    
+    background: #0033FF;
+    color: #FFFFFF;
+    
+    border: none;
+    border-radius: 105px;
+    cursor: pointer;
+}
+
+.sounds__image{
+    margin-top: 50px;
+}
+
