@@ -1,0 +1,54 @@
+.customization{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    background-image: url("/img/line.png");
+
+    height: 615px;
+
+    display: flex;
+    align-items: center;
+    
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    border-radius: 0 0 10% 10%;
+}
+
+.customization__item__img{
+    float: left;
+}
+
+.customization__title{
+    margin-top: 142px;
+    color: white;
+    font-size: 38px;
+    margin-bottom: 113px;
+}
+
+.customization__item__title{
+    color: white;
+    margin-top: 60px;
+}
+
+.customization__item__description{
+    color: #958A8A;
+    font-size: 16px;
+    margin-top: 19px;
+    
+}
+
+.customization__block{
+    text-align: left;
+    justify-content: center;
+    flex-grow: 1;
+    column-gap: 90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.customization__item{
+    max-width: calc(1086px / 4);
+    width: 100%;
+    padding: 0%;
+}
+
