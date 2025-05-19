@@ -1,0 +1,51 @@
+.studio{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    height: 671px;
+}
+
+.studio__content{
+    text-align: left;
+    margin-left: 139px;
+}
+
+.studio__subtitle{
+    font-size: 16px;
+    color: #60606080;
+}
+
+.studio__title{
+    margin-top: 3px;
+    font-size: 48px;
+}
+
+.studio__span{
+    color: blue;
+}
+
+.studio__description{
+    margin-top: 18px;
+    font-size: 18px;
+    color: #958A8A;
+}
+
+.studio__image{
+    margin-top: 29.5px;
+}
+
+.studio__button{
+    margin-top: 34px;
+    height: 37px;
+
+    background: #0033FF;
+    color: #FFFFFF;
+
+    border: none;
+    border-radius: 105px;
+    cursor: pointer;
+}
