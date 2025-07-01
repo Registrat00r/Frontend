@@ -126,6 +126,8 @@ modal?.addEventListener('click', (e: MouseEvent) => {
   }
 });
 
+
+//-------------------------------------------------------------------------------------
 document.addEventListener('DOMContentLoaded', () => {
   const preloader = document.querySelector('.preloader') as HTMLElement | null;
 
